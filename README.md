@@ -8,9 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/PauloBoldrini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloboldrini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Paulo%20Boldrini%20-%20Data%20Engineering%20Stats"/>
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloboldrini&layout=compact&langs_count=8&theme=tokyonight&custom_title=Data%20Engineering%20Stack&hide=html,css,scss&size_weight=0.5&count_weight=0.5"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloboldrini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Paulo%20Boldrini%20-%20Data%20Engineering%20Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloboldrini&layout=compact&langs_count=8&theme=tokyonight&custom_title=Main%20Data%20Stack&hide=javascript,html,css,scss&size_weight=0.5&count_weight=0.5" />
   </a>
 </div>
 
